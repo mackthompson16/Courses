@@ -1,0 +1,33 @@
+id x
+whitespace  
+EQL =
+whitespace  
+int 3
+whitespace 
+id y
+whitespace  
+EQL =
+whitespace  
+int 5
+whitespace 
+id z
+whitespace  
+EQL =
+whitespace  
+unknown (
+id x
+whitespace  
+ADDOP +
+whitespace  
+id y
+unknown )
+whitespace  
+DIVOP /
+whitespace  
+int 3
+whitespace 
+PRINT print
+whitespace  
+id z
+whitespace 
+eof eof
